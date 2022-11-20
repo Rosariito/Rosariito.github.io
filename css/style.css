@@ -1,0 +1,75 @@
+#caja1
+    {
+        z-index: 5;
+        position:relative;
+        width: 900px;
+        height: 100px;
+        border-style:dashed;
+        border-color: green;
+        background-color: greenyellow;
+        opacity: 70%;
+    }
+#caja3
+    {
+        position: absolute;
+        z-index: 4;
+        width: 550px;
+        height: 450px;
+        border-style:dashed;
+        border-color:darkred;
+        background-color: red;
+        opacity: 70%;
+        margin-top: -4%;
+        margin-left: 28%;
+    }
+#caja4
+    {
+        z-index: 6;
+        position: relative;
+        width: 450px;
+        height: 80px;
+        border-style: dashed;
+        border-color:darkkhaki;
+        background-color: yellow;
+        opacity: 70%;
+        margin-left: 8%;
+        margin-top: -8%;
+    }
+#caja5
+    {
+        z-index: 1;
+        position: relative;
+        width: 450px;
+        height: 80px;
+        border-style:dashed;
+        border-color: darkkhaki;
+        background-color: yellow;
+        opacity: 70%;
+        margin-left: 8%;
+        margin-top: 42%;
+    }
+#caja6
+    {
+        z-index: 3;
+        position: absolute;
+        width: 280px;
+        height: 400px;
+        border-style:dashed;
+        border-color:blueviolet;
+        background-color: violet;
+        opacity: 70%;
+        margin-left: 36%;
+        margin-top: -20%;
+    }
+#caja2
+    {
+        z-index: 2;
+        position:relative;
+        width: 900px;
+        height: 100px;
+        border-style:dashed;
+        border-color: green;
+        background-color: greenyellow;
+        opacity: 70%;
+        margin-top:25%;
+    }
